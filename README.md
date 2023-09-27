@@ -1,1 +1,1 @@
-### Execícios mini curso-testes-integracao.
+### Execícios mini-curso-testes-integracao.
