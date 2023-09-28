@@ -8,7 +8,7 @@ const app = express();
 app.use(json());
 
 app.get("/health", (req: Request, res: Response) => {
-  res.status(200).send("OK!");
+  res.status(200).send("OK!" );
 });
 
 app.post("/accesses", async (req: Request, res: Response) => {
